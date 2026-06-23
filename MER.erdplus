@@ -25,7 +25,7 @@
             {
               "id": "50234d5f-4ab5-45a3-a3bc-ac2e11909ec7",
               "name": "cpf",
-              "type": "INT",
+              "type": "VARCHAR(n)",
               "position": 0,
               "isPrimaryKey": false,
               "isUnique": true,
@@ -457,7 +457,7 @@
             },
             {
               "id": "e0eec522-d9b3-4bd8-a0b8-bd60199210e8",
-              "name": "desc",
+              "name": "descr",
               "type": "CHAR(n)",
               "position": 0,
               "size": "10",
@@ -651,7 +651,7 @@
             },
             {
               "id": "973b5f77-88f7-450f-830e-cbcf8dc72130",
-              "name": "desc",
+              "name": "descr",
               "type": "INT",
               "position": 0,
               "isPrimaryKey": false
@@ -903,19 +903,19 @@
             },
             {
               "id": "69aef88b-a866-4509-946b-d3ce845c5042",
-              "name": "desc",
+              "name": "descr",
               "type": "VARCHAR(n)",
               "position": 0,
               "size": "100"
             }
           ],
-          "isSelected": true
+          "isSelected": false
         },
         "measured": {
           "width": 240,
           "height": 76
         },
-        "selected": true,
+        "selected": false,
         "dragging": false
       }
     ],
@@ -1245,9 +1245,9 @@
       }
     ],
     "viewport": {
-      "x": -378.20254794193943,
-      "y": 139.54227220708708,
-      "zoom": 0.8705505632961256
+      "x": -229.21862582356766,
+      "y": 199.97774517159942,
+      "zoom": 0.7475999660028788
     }
   },
   "name": "MER",
@@ -1258,5 +1258,5 @@
     "id": 345091
   },
   "id": 493559,
-  "updatedAtTimestamp": 1782167974
+  "updatedAtTimestamp": 1782180317
 }
