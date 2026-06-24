@@ -1,4 +1,4 @@
-2# Modelagem DB
+# Modelagem DB
 
 Modelagem de um banco de dados para instituição financeira.
 O sistema deverá permitir o gerenciamento de clientes, solicitações de empréstimo, contratos financeiros, parcelas e pagamentos vinculados às operações de crédito realizadas pela instituição.
@@ -47,9 +47,7 @@ empréstimos que não exigem ou não possuem fiador associado também apareçam 
 ##### Resumo Financeiro da Carteira Ativa
 Deverá ser apresentado um resumo financeiro referente aos empréstimos em situação ativa no sistema.
 O relatório deve consolidar indicadores estatísticos dos financiamentos vigentes, contemplando o valor
-total, a média dos valores contratados, bem como os maiores e menores valores entre os contratos ativos
-
-que ainda possuam saldo financeiro a receber. A análise deve considerar apenas contratos com
+total, a média dos valores contratados, bem como os maiores e menores valores entre os contratos ativos que ainda possuam saldo financeiro a receber. A análise deve considerar apenas contratos com
 obrigações financeiras em aberto, de modo a refletir a exposição atual da carteira de crédito.
 
 ##### Quantitativo de Empréstimos por Status
