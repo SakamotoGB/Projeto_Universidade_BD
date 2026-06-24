@@ -436,13 +436,20 @@
                   }
                 ]
               }
+            },
+            {
+              "id": "697a2cdb-b268-4c31-b66b-e0a099c1fa88",
+              "name": "obs",
+              "type": "VARCHAR(n)",
+              "position": 0,
+              "size": "100"
             }
           ],
           "isSelected": false
         },
         "measured": {
           "width": 240,
-          "height": 202
+          "height": 227
         },
         "selected": false,
         "dragging": false
@@ -451,8 +458,8 @@
         "id": "2817fe40-b269-42c7-bd8b-b7cbfb5be759",
         "type": "Table",
         "position": {
-          "x": 1297.3409954002286,
-          "y": 635.2492554010363
+          "x": 1301.1822822087966,
+          "y": 646.7731158267396
         },
         "data": {
           "label": "status_emprestimo",
@@ -934,8 +941,8 @@
         "id": "c8b0db05-4e70-4ccf-b215-012c31b84a6d",
         "type": "Table",
         "position": {
-          "x": 1300.3912474237045,
-          "y": 546.89564109082
+          "x": 1301.9277621471315,
+          "y": 559.187758878237
         },
         "data": {
           "label": "tipo_emprestimo",
@@ -957,13 +964,13 @@
               "size": "100"
             }
           ],
-          "isSelected": true
+          "isSelected": false
         },
         "measured": {
           "width": 240,
           "height": 76
         },
-        "selected": true,
+        "selected": false,
         "dragging": false
       }
     ],
@@ -1316,9 +1323,9 @@
       }
     ],
     "viewport": {
-      "x": -253.21862582356766,
-      "y": 120.71988688834423,
-      "zoom": 0.7475999660028788
+      "x": -1041.115167600104,
+      "y": -255.67803167263298,
+      "zoom": 1.3016471430479393
     }
   },
   "name": "MER",
@@ -1326,8 +1333,8 @@
     "name": "Diagrams",
     "folderType": 1,
     "depth": 0,
-    "id": 345091
+    "id": 317294
   },
-  "id": 496428,
-  "updatedAtTimestamp": 1782328073
+  "id": 496525,
+  "updatedAtTimestamp": 1782341931
 }
