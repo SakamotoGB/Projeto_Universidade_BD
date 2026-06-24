@@ -83,3 +83,8 @@ Crie uma consulta SQL adicional (com complexidade mínima de envolvimento de 3 t
 |7|Acompanhamento de Adimplência|N|
 |8|Consulta Adicional|N|
 
+## Equipe
+Este projeto foi desenvolvido colaborativamente por:
+* [Bernardo Londero](https://github.com/BernardoLondero)
+* [Arthur Fontoura](https://github.com/Arthur-Fontoura)
+* [Gustavo Baptista](https://github.com/SakamotoGB)
