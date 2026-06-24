@@ -47,9 +47,7 @@ empréstimos que não exigem ou não possuem fiador associado também apareçam 
 ##### Resumo Financeiro da Carteira Ativa
 Deverá ser apresentado um resumo financeiro referente aos empréstimos em situação ativa no sistema.
 O relatório deve consolidar indicadores estatísticos dos financiamentos vigentes, contemplando o valor
-total, a média dos valores contratados, bem como os maiores e menores valores entre os contratos ativos
-
-que ainda possuam saldo financeiro a receber. A análise deve considerar apenas contratos com
+total, a média dos valores contratados, bem como os maiores e menores valores entre os contratos ativos que ainda possuam saldo financeiro a receber. A análise deve considerar apenas contratos com
 obrigações financeiras em aberto, de modo a refletir a exposição atual da carteira de crédito.
 
 ##### Quantitativo de Empréstimos por Status
@@ -74,12 +72,17 @@ Crie uma consulta SQL adicional (com complexidade mínima de envolvimento de 3 t
 #### To-do List Consultas
 |Item|Descrição|OK|
 |:--:|--|:--:|
-|1|Clientes com Empréstimos Ativos|N|
-|2|Fila de Propostas em Análise|N|
-|3|Relação de Empréstimos e Fiadores|N|
-|4|Resumo Financeiro da Carteira Ativa|N|
-|5|Quantitativo de Empréstimos por Status|N|
-|6|Controle e Situação de Parcelas|N|
-|7|Acompanhamento de Adimplência|N|
-|8|Consulta Adicional|N|
+|1|[Clientes com Empréstimos Ativos](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#clientes-com-empr%C3%A9stimos-ativos)|OK|
+|2|[Fila de Propostas em Análise](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#fila-de-propostas-em-an%C3%A1lise)|OK|
+|3|[Relação de Empréstimos e Fiadores](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#rela%C3%A7%C3%A3o-de-empr%C3%A9stimos-e-fiadores)|N|
+|4|[Resumo Financeiro da Carteira Ativa](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#resumo-financeiro-da-carteira-ativa)|N|
+|5|[Quantitativo de Empréstimos por Status](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#quantitativo-de-empr%C3%A9stimos-por-status)|OK|
+|6|[Controle e Situação de Parcelas](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#controle-e-situa%C3%A7%C3%A3o-de-parcelas)|OK|
+|7|[Acompanhamento de Adimplência](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#acompanhamento-de-adimpl%C3%AAncia)|OK|
+|8|[Consulta Adicional](https://github.com/SakamotoGB/Projeto_Universidade_BD/blob/main/ReadMe.md#consulta-adicional)|N|
 
+## Equipe
+Este projeto foi desenvolvido colaborativamente por:
+* [Bernardo Londero](https://github.com/BernardoLondero)
+* [Arthur Fontoura](https://github.com/Arthur-Fontoura)
+* [Gustavo Baptista](https://github.com/SakamotoGB)
